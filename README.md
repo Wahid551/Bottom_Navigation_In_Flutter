@@ -1,6 +1,6 @@
 # bottom_navigation
 
-A new Flutter Bottonm Navigation Bar Application.
+A new Flutter Bottom Navigation Bar Application.
 
 # Application View
 
