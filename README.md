@@ -3,7 +3,7 @@
 A new Flutter Bottom Navigation Bar Application.
 
 # Application View
-
+<img src='https://user-images.githubusercontent.com/73393935/101282862-417c9480-37f9-11eb-933d-858916feffb2.gif' width=300 />
 
 ## Getting Started
 
